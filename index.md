@@ -1,7 +1,7 @@
 
 # Khristian Idica's Portfolio
 
-My name is Khristian Idica, I am a computer engineering student at Cal State Fullerton.
+My name is Khristian Idica, I am a comp engineering student at Cal State Fullerton.
 
 ## Computer Science Projects
 
